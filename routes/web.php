@@ -14,5 +14,5 @@
 */
 
 $router->get('/', function () use ($router) {
-    return "Lumen 8.1 project - prueba devops by Alejandro Castañeda Ocampo - ePayco 2021";
+    return "Lumen 8.1 project - prueba devops by Alejandro Castañeda Ocampo - ePayco 2021 - Last pipeline 22 Mayo 18:34.";
 });
